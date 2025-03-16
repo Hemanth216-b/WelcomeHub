@@ -106,7 +106,7 @@ Follow these steps to set up and deploy the WelcomeHub project:
 
 
 
-## Conclusion 🎉
+## Congratulations 🎉
 
 WelcomeHub is a simple yet powerful example of how to automate the deployment of a static website using modern cloud technologies. By leveraging **AWS S3** for hosting and **AWS CodePipeline** for CI/CD, this project demonstrates how to streamline the deployment process, making it efficient and reliable. Whether you're a beginner exploring AWS or an experienced developer looking for a quick reference, WelcomeHub serves as a practical guide to building and deploying static websites with ease.
 
